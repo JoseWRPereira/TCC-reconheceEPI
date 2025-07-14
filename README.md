@@ -2,16 +2,14 @@
 
 ## Título: 
 
-Instituição: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
-Campus: Salto - SP
-Curso: Engenharia de Controle e Automação
-Ano: 2025
-
-Equipe:
+- Instituição: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
+- Campus: Salto - SP
+- Curso: Engenharia de Controle e Automação
+- Ano: 2025
+- Equipe:
 	- Luiz Carlos de Araújo Neto
 	- Pedro Henrique Brunheira
-
-Orientador:
+- Orientador:
 	- José William Rodrigues Pereira
 
 
